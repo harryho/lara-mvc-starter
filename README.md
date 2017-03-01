@@ -22,17 +22,19 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 extension=php_mbstring.dll
 ```
 
+### Overview 
+
+The starter is a simple blog site. It provide simple database CRUD sample, and ORM sample, e.g. One to many relationship between different blog and comments. 
+
 ### Getting started
 
-
-#### * create new project
 #### * migrate database and seed dummy data
 
 ```bash
 php artisan migrate -VVV 
 php artisan db:seed
 ```
-### * Troubleshooting
+#### * Troubleshooting
 
 **Fix the error of Specified key was too long**
 
