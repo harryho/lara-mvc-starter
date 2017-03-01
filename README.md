@@ -14,7 +14,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 
-
 ### install laravel global `composer global laravel/installer`
 
 ### Change `php.ini` config 
@@ -23,7 +22,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 extension=php_mbstring.dll
 ```
 
-### Create new project from scratch
+### Getting started
+
 
 #### * create new project
 #### * migrate database and seed dummy data
