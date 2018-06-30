@@ -28,6 +28,13 @@ The starter is a simple blog site. It provide simple database CRUD sample, and O
 
 ### Getting started
 
+#### * Create your `.env` file and update database setting
+#### * 
+
+```bash
+
+```
+
 #### * migrate database and seed dummy data
 
 ```bash
